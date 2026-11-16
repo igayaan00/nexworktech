@@ -24,7 +24,7 @@ export const DEFAULT_GALLERY = [
     description:
       "Impedance-controlled multi-layer PCB layout with onboard power management IC.",
     image:
-      "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?auto=format&fit=crop&w=900&q=80",
+      "/owner.jpg=80",
   },
 ];
 
@@ -32,7 +32,7 @@ export const DEFAULT_OWNER = {
   name: "Ayaan Ahmad",
   role: "Founder & Chief Systems Architect",
   photo:
-    "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+    "/owner.jpg",
   bio: "Leading NEXWORKTECH with a vision to bridge intelligent software and precision hardware. Specializing in AI workflow automation, embedded IoT ecosystems, and industrial-grade PCB engineering.",
   experience: "5+ Years in Next-Gen Hardware & AI Systems",
   location: "India • Global Operations",
